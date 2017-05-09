@@ -1,0 +1,13 @@
+name: langgame
+version: 0.1.0
+
+authors:
+  - Marcos Brizeno <marcos.uece.comp@gmail.com>
+
+targets:
+  langgame:
+    main: src/langgame.cr
+
+crystal: 0.22.0
+
+license: MIT
