@@ -1,2 +1,2 @@
 require "spec"
-require "../src/langgame"
+require "../src/langgame/*"
